@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`github-api > getRepository > should return repository information 1`] = `Promise {}`;
